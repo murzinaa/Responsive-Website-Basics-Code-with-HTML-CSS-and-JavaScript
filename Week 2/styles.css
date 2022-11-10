@@ -1,0 +1,5 @@
+h1{
+    color: blue; /*sets the color of text to blue*/
+    font-family: Arial, Helvetica, sans-serif; /*Specifies a prioritized list of font family names or generic family names*/
+    font-size: 3em; /*sets the size to 3em*/
+}
